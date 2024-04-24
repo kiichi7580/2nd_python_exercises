@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "*"
+openpyxl = "*"
+pandas = "*"
+opencv-python = "*"
+dlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
