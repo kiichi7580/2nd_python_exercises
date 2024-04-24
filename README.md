@@ -1,1 +1,3 @@
 # 2nd_python_exercises
+
+学校でやっているpythonの授業の演習時のコードをまとめたリポジトリ
